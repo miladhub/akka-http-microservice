@@ -1,0 +1,6 @@
+{
+  "name": "Akka HTTP microservice example",
+  "description": "Akka HTTP microservice example.",
+  "website": "https://typesafe.com/activator/template/akka-http-microservice",
+  "success_url": "/ip/8.8.8.8"
+}
